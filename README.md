@@ -7,6 +7,20 @@
   <img src="https://img.shields.io/badge/Sonar_AI-FF6C37?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
+<img width="800" height="190" alt="image" src="https://github.com/user-attachments/assets/2da13ec2-9b9a-407e-bb73-4fde1a1691ed" />
+
+
+## 🚀 Important Links
+
+### 🎥 Demo Video
+
+<a href="https://vimeo.com/1140351506">
+  <img src="./chilltaxthumbnail.png" alt="ChillTax Demo" width="600"/>
+</a>
+
+### 🔹 **Hackathon Page and Team Info**  
+👉 https://devpost.com/software/xx-6iq0mz
+
 ## 🚀 Features
 
 - **AI-Powered Expense Categorization** (Tax vs. Non-Tax)
