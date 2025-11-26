@@ -14,7 +14,7 @@
 
 ### 🎥 Demo Video
 
-<a href="https://vimeo.com/1140351506">
+<a href="https://youtu.be/W83nHojGPzA">
   <img src="./chilltaxthumbnail.png" alt="ChillTax Demo" width="600"/>
 </a>
 
